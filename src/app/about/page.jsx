@@ -14,7 +14,7 @@ export default function About() {
       <p>
         Another notable feature of our website is its search functionality,
         which allows users to find movies easily. The search bar is prominently
-        displayed on the website's homepage, making it easy for users to search
+        displayed on the website&apos;s homepage, making it easy for users to search
         for specific movies, actors, or directors. Once a user has entered their
         query, the website displays relevant search results, allowing them to
         quickly find the movie they are looking for.
@@ -24,7 +24,7 @@ export default function About() {
         The movie information page is another key feature of our website. When a
         user clicks on a specific movie, they are directed to a dedicated page
         that provides detailed information about the movie. This information
-        includes the movie's title, release date, genre, runtime, cast,
+        includes the movie&apos;s title, release date, genre, runtime, cast,
         director, and a brief synopsis. Additionally, the page displays user
         ratings and reviews, enabling users to get a better understanding of
         what other people think about the movie. In summary, your movie website
